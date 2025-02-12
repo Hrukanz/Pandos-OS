@@ -1,5 +1,4 @@
 uMPS3 pandos OS project programmed in C
-Authors: Haruka Yamamoto & James Rushworth
 
 Commands to run:
 
