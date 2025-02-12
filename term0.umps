@@ -1,0 +1,29 @@
+umps3> time
+Shell has been running for this many seconds:
+2
+umps3> help
+Here are the shell commands:
+  EXIT: By typing 'exit' you exit the shell
+  PRINT: By typing 'print' you can print to the terminal
+  TOD: By typing 'time' you can get how long the shell has been running for in seconds
+  HELP: By typing 'help' you get to this output
+  GALLERY: By typing 'gallery' you get to see some cool ASCII art photos
+  CALCULATOR: By typing 'calc' you can do basic math by -> num1 operand num2
+              Keep input numbers below 1000
+umps3> calc
+Enter calculation: 1001 -1
+Result: 1000
+umps3> clac
+An error occurred, try again
+umps3> calc
+Enter calculation: 1000 - 99
+Result: 901
+umps3> calc
+Enter calculation: 1000 * 1000
+Result: 1000000
+umps3> clac
+An error occurred, try again
+umps3> calc
+Enter calculation: 1/ 999
+Result: 0
+umps3> 
